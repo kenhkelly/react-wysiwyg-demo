@@ -10,6 +10,7 @@
     "react-draft-wysiwyg": "^1.13.2",
     "react-froala-wysiwyg": "^3.0.3",
     "react-router-dom": "^5.0.1",
+    "react-rte": "^0.16.1",
     "react-scripts": "0.9.x"
   },
   "devDependencies": {

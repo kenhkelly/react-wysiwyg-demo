@@ -30,7 +30,8 @@ class Froala extends React.Component {
   }
 
   render() {
-    return <div style={{ height: '400px' }}>
+    return <div>
+      <h1>Froala</h1>
       <FroalaEditor
         model={this.state.model}
         onModelChange={this.handleModelChange}

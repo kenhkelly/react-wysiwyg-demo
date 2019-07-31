@@ -34,7 +34,7 @@ class Draft extends React.Component {
         onEditorStateChange={this.onEditorStateChange}
       />
 
-      <textarea value={html} />
+      <textarea readOnly value={html} />
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </div>
