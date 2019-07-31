@@ -11,10 +11,10 @@
     "react-froala-wysiwyg": "^3.0.3",
     "react-router-dom": "^5.0.1",
     "react-rte": "^0.16.1",
-    "react-scripts": "0.9.x"
+    "react-scripts": "0.9.x",
+    "@fortawesome/fontawesome-free": "^5.10.0"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
