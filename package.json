@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "draft-convert": "^2.1.7",
-    "draft-js": "^0.11.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "draft-convert": "^2.1.8",
+    "draft-js": "^0.11.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "react-draft-wysiwyg": "^1.13.2",
-    "react-froala-wysiwyg": "^3.0.3",
-    "react-router-dom": "^5.0.1",
+    "react-froala-wysiwyg": "^3.0.6",
+    "react-router-dom": "^5.1.2",
     "react-rte": "^0.16.1",
     "react-scripts": "0.9.x",
-    "@fortawesome/fontawesome-free": "^5.10.0"
+    "@fortawesome/fontawesome-free": "^5.11.2"
   },
   "devDependencies": {
   },
